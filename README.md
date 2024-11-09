@@ -1,1 +1,1 @@
-Ejercico para implementar en jenkins pediente
+Ejercicio para implementar en jenkins pediente
